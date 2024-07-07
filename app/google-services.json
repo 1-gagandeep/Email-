@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119898252124",
+    "project_id": "emailpasswordtest-adf88",
+    "storage_bucket": "emailpasswordtest-adf88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119898252124:android:b3c0d29f72c642e1121799",
+        "android_client_info": {
+          "package_name": "com.example.firebaseemailpasswordtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgbp36yBYj-vTQV-1ZR7wlTIrdV25jqmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
